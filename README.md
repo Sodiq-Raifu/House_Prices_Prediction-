@@ -1,4 +1,4 @@
-# House Prices: Advanced Regression Techniques
+# Predictive Modeling of House Prices
 
 This repository contains my data science approach to the Kaggle House Prices Competition. This project focuses on predicting residential home prices using a combination of statistical analysis and machine learning.
 
@@ -23,3 +23,10 @@ One of the most impactful features I engineered was the **Year Used** variable. 
 ### 2. Modeling Strategy
 *   **XGBoost:** I utilized an extreme gradient boosting regressor to capture non-linear relationships and interactions between features (like quality vs. age).
 *   **Linear Regression:** Used as a baseline model to evaluate the fundamental linear correlations within the dataset.
+
+## 📂 Data Source
+The dataset for this project is provided by **Kaggle** as part of the "House Prices - Advanced Regression Techniques" competition. 
+
+*   **Source:** [Kaggle Ames Housing Dataset](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data)
+*   **Description:** 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa.
+
